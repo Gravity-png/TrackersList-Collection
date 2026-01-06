@@ -8,8 +8,6 @@ http://[2a04:ac00:1:3dd8::1:2710]:2710/announce
 
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
-http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
-
 http://bt.okmp3.ru:2710/announce
 
 http://bt.rer.lol:2710/announce
@@ -29,8 +27,6 @@ http://ipv6.rer.lol:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 
 http://nyaa.tracker.wf:7777/announce
-
-http://open.tracker.cl:1337/announce
 
 http://p4p.arenabg.com:1337/announce
 
@@ -60,15 +56,13 @@ http://tracker.dler.org:6969/announce
 
 http://tracker.ghostchu-services.top:80/announce
 
-http://tracker.internetwarriors.net:1337/announce
+http://tracker.ipv6tracker.ru:80/announce
 
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
-
-http://tracker.tricitytorrents.com:2710/announce
 
 http://tracker.waaa.moe:6969/announce
 
@@ -95,8 +89,6 @@ https://torrent.tracker.durukanbal.com:443/announce
 https://tr.abiir.top:443/announce
 
 https://tr.nyacat.pw:443/announce
-
-https://tracker.alaskantf.com:443/announce
 
 https://tracker.bt4g.com:443/announce
 
